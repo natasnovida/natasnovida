@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/natasnovida/natasnovida/blob/main/assets/image.svg)
 
 About me
 
