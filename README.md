@@ -18,6 +18,7 @@ I'm Natalie, Front-End Developer from Kyiv, Ukraine :blue_heart::yellow_heart:
 <a href="https://wordpress.com/ru/" target="_blank"><img align="left" alt="Wordpress" height ="42px" src="assets/wordpress.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="assets/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height='42px' src="assets/git-scm.svg"/></a>
+<a href="https://webpack.js.org/" target="_blank"><img align="left" alt="Webpack" height='42px' src="assets/webpack.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height='42px' src="assets/figma.svg"/></a>
 <a href="https://www.adobe.com/ua/products/photoshop.html" target="_blank"><img align="left" alt="Photoshop" height='42px' src="assets/photoshop.svg"/></a>
 
